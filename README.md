@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and machine learning
 - 🌱 I’m currently learning DevOps, algorithms, and web development
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me silveredsaxophonist@gmail.com
+- 📫 How to reach me //no professional email yet
 - This is definitely a work in progress description :/
 
 <!---
