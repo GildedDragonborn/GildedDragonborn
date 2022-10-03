@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Julia
-- 👀 I’m interested in Web development and machine learning
-- 🌱 I’m currently learning DevOps, algorithms, and web development
+- 👀 I’m interested in video game development, procedural generation, and machine learning
+- 🌱 I’m currently learning DevOps, algorithms, and WinAPI in my free time
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me //no professional email yet
-- This is definitely a work in progress description :/
+- 📫 How to reach me juliamakesgames@gmail.com
 
 <!---
 GildedDragonborn/GildedDragonborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
