@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ----
 - 👀 I’m interested in video game development, procedural generation, and machine learning
-- 🌱 I’m currently learning DevOps, algorithms, and WinAPI in my free time
+- 🌱 I’m currently learning X, Y, and Z in my free time
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me 
 
